@@ -1,0 +1,2 @@
+# Vitis-XGpioPs_SetDirectionPin
+XGpioPs_SetDirectionPin函数的用法
